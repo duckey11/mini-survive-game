@@ -1,6 +1,6 @@
-# Mini Survive Game Online
+# Mini Survive Online
 
-Mini Surviv Online is a **browser-based multiplayer survival game**, inspired by games like *Surviv Fun*. Players move around a 2D map, collect items, and survive within a shrinking safe zone. Compete with friends in real-time and see who survives the longest!
+**Mini Surviv Online** is a **browser-based multiplayer survival game**, inspired by games like *Surviv Fun*. Players move around a 2D map, collect items, and survive within a shrinking safe zone. Compete with friends in real-time and see who survives the longest!
 
 ---
 
@@ -19,14 +19,13 @@ Mini Surviv Online is a **browser-based multiplayer survival game**, inspired by
 
 - **Arrow Keys** → Move your player  
 - **Collect items** by moving over them  
-- **Survive** within the safe zone to avoid losing health  
+- **Stay inside the safe zone** to avoid losing health  
 
 ---
 
-## **Setup & Run Locally**
+## **Setup & Run Locally (Single Command)**
 
-1. Clone this repository:
+Run this single command in your project folder to install dependencies and start the server:
 
 ```bash
-git clone https://github.com/username/mini-survive-game.git
-cd mini-survive-game
+npm install && node server.js
