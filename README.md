@@ -1,4 +1,4 @@
-# Mini Survive Online
+# Mini Survive Game
 
 **Mini Surviv Online** is a **browser-based multiplayer survival game**, inspired by games like *Surviv Fun*. Players move around a 2D map, collect items, and survive within a shrinking safe zone. Compete with friends in real-time and see who survives the longest!
 
